@@ -1,0 +1,29 @@
+{
+  "name": "result-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbobrovskyi/result-ts.git"
+  },
+  "keywords": [
+    "result",
+    "ts"
+  ],
+  "author": "Mykhailo Bobrovskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbobrovskyi/result-ts/issues"
+  },
+  "homepage": "https://github.com/mbobrovskyi/result-ts#readme",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.10",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1"
+  }
+}
